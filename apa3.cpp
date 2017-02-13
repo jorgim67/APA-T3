@@ -1,6 +1,6 @@
 /*COMPILAR USANDO FLAG -std=c++11 
 
-*********************************
+**********************************
 Aluno: George Nunes de Moura Filho
 Matrícula: 11328786
 Disciplina: Análise e Projeto de Algoritmo
